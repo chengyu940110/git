@@ -3,7 +3,7 @@ public class GitDemo {
 		System.out.println("Git");
 		System.out.println("Test");
 		System.out.println("Test1");
-		System.out.println("Test2");
+		System.out.println("Test");
 		System.out.println("Test");
 		System.out.println("Test");
 		System.out.println("Test");
